@@ -1,2 +1,7 @@
-name: The Retiring Illustrator
+title: The Retiring Illustrator
 theme: minima
+name: Angelina Yang
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
